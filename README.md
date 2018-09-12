@@ -2,6 +2,6 @@
 
 Just some tests...
 
-This readme file as a few lines dedicated to understanding branches, commits and pull requests.
+## File TestBookLSTM.ipynb
 
-Prepared for version 1.2?
+This file shows a simple example of how to use LSTM layers on Keras to predict future values indefinitely from a base sequence. 
